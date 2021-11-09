@@ -1,0 +1,14 @@
+f:\cqf\vs2021project\HelloWorld\Calculator\bin\Debug\net5.0\Calculator.deps.json
+f:\cqf\vs2021project\HelloWorld\Calculator\bin\Debug\net5.0\Calculator.dll
+f:\cqf\vs2021project\HelloWorld\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+f:\cqf\vs2021project\HelloWorld\Calculator\bin\Debug\net5.0\Calculator.pdb
+f:\cqf\vs2021project\HelloWorld\Calculator\bin\Debug\net5.0\MathOperations.dll
+f:\cqf\vs2021project\HelloWorld\Calculator\bin\Debug\net5.0\MathOperations.pdb
+f:\cqf\vs2021project\HelloWorld\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+f:\cqf\vs2021project\HelloWorld\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+f:\cqf\vs2021project\HelloWorld\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+f:\cqf\vs2021project\HelloWorld\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+f:\cqf\vs2021project\HelloWorld\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+f:\cqf\vs2021project\HelloWorld\Calculator\obj\Debug\net5.0\Calculator.dll
+f:\cqf\vs2021project\HelloWorld\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+f:\cqf\vs2021project\HelloWorld\Calculator\obj\Debug\net5.0\Calculator.pdb

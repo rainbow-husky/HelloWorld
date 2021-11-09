@@ -1,0 +1,12 @@
+f:\cqf\vs2021project\HelloWorld\MathOperations\bin\Debug\net5.0\MathOperations.deps.json
+f:\cqf\vs2021project\HelloWorld\MathOperations\bin\Debug\net5.0\MathOperations.dll
+f:\cqf\vs2021project\HelloWorld\MathOperations\bin\Debug\net5.0\ref\MathOperations.dll
+f:\cqf\vs2021project\HelloWorld\MathOperations\bin\Debug\net5.0\MathOperations.pdb
+f:\cqf\vs2021project\HelloWorld\MathOperations\obj\Debug\net5.0\MathOperations.csproj.AssemblyReference.cache
+f:\cqf\vs2021project\HelloWorld\MathOperations\obj\Debug\net5.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+f:\cqf\vs2021project\HelloWorld\MathOperations\obj\Debug\net5.0\MathOperations.AssemblyInfoInputs.cache
+f:\cqf\vs2021project\HelloWorld\MathOperations\obj\Debug\net5.0\MathOperations.AssemblyInfo.cs
+f:\cqf\vs2021project\HelloWorld\MathOperations\obj\Debug\net5.0\MathOperations.csproj.CoreCompileInputs.cache
+f:\cqf\vs2021project\HelloWorld\MathOperations\obj\Debug\net5.0\MathOperations.dll
+f:\cqf\vs2021project\HelloWorld\MathOperations\obj\Debug\net5.0\ref\MathOperations.dll
+f:\cqf\vs2021project\HelloWorld\MathOperations\obj\Debug\net5.0\MathOperations.pdb

@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MathOperations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MathOperations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathOperations/1.0.0": {
+      "type": "project",
+      "path": "../MathOperations/MathOperations.csproj",
+      "msbuildProject": "../MathOperations/MathOperations.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MathOperations >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\wgy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "f:\\cqf\\vs2021project\\HelloWorld\\Calculator\\Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "f:\\cqf\\vs2021project\\HelloWorld\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\wgy\\.nuget\\packages\\",
+      "outputPath": "f:\\cqf\\vs2021project\\HelloWorld\\Calculator\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\wgy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "F:\\cqf\\vs2021project\\HelloWorld\\MathOperations\\MathOperations.csproj": {
+              "projectPath": "F:\\cqf\\vs2021project\\HelloWorld\\MathOperations\\MathOperations.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

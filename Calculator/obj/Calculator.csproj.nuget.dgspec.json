@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "f:\\cqf\\vs2021project\\HelloWorld\\Calculator\\Calculator.csproj": {}
+  },
+  "projects": {
+    "f:\\cqf\\vs2021project\\HelloWorld\\Calculator\\Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\cqf\\vs2021project\\HelloWorld\\Calculator\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "f:\\cqf\\vs2021project\\HelloWorld\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\wgy\\.nuget\\packages\\",
+        "outputPath": "f:\\cqf\\vs2021project\\HelloWorld\\Calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wgy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\cqf\\vs2021project\\HelloWorld\\MathOperations\\MathOperations.csproj": {
+                "projectPath": "F:\\cqf\\vs2021project\\HelloWorld\\MathOperations\\MathOperations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\cqf\\vs2021project\\HelloWorld\\MathOperations\\MathOperations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\cqf\\vs2021project\\HelloWorld\\MathOperations\\MathOperations.csproj",
+        "projectName": "MathOperations",
+        "projectPath": "F:\\cqf\\vs2021project\\HelloWorld\\MathOperations\\MathOperations.csproj",
+        "packagesPath": "C:\\Users\\wgy\\.nuget\\packages\\",
+        "outputPath": "F:\\cqf\\vs2021project\\HelloWorld\\MathOperations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wgy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

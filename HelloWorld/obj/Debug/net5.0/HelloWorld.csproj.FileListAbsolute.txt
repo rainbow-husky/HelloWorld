@@ -1,0 +1,16 @@
+F:\cqf\vs2021project\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+F:\cqf\vs2021project\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+F:\cqf\vs2021project\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+F:\cqf\vs2021project\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+F:\cqf\vs2021project\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+F:\cqf\vs2021project\HelloWorld\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+F:\cqf\vs2021project\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+F:\cqf\vs2021project\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+F:\cqf\vs2021project\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\cqf\vs2021project\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+F:\cqf\vs2021project\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+F:\cqf\vs2021project\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\cqf\vs2021project\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+F:\cqf\vs2021project\HelloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+F:\cqf\vs2021project\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+F:\cqf\vs2021project\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
